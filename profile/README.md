@@ -1,20 +1,17 @@
-#  SolDrive - Decentralized File Storage on Solana
+# Sol.Drive  
+Decentralized Storage on Solana
 
 ---
 
-## ✅ Status
-
-All core features are **Complete** and have passed initial implementation and testing.
-
-| Feature | Status |
-| :--- | :--- |
-| Global Config | **Complete** |
-| User Profiles | **Complete** |
-| File Creation | **Complete** |
-| Storage Registration | **Complete** |
-| File Finalization | **Complete** |
-| File Sharing | **Complete** |
-| Access Control | **Complete** |
-| Public/Private | **Complete** |
+## Overview  
+Sol.Drive is a decentralized cloud drive built on the Solana blockchain with IPFS integration.  
+It provides on-chain ownership and off-chain storage, ensuring secure, low-cost, and censorship-resistant file management.
 
 ---
+
+## Features  
+- True ownership through wallet-based access  
+- Decentralized global storage via IPFS  
+- Fast and low-cost transactions on Solana  
+- On-chain metadata and access control using Anchor  
+- Simple, intuitive user experience
